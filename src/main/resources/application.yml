@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password: eae3710keming
+    username: root
+    url: jdbc:mysql://mysql.keming.co:3306/invasion?useUnicode=true&characterEncoding=UTF-8
